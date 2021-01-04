@@ -6,6 +6,13 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40ox;
+
+}
+p{
+    color: dimgray;
+}
 .name_highlight{
     color: darkorange;
 }
@@ -44,5 +51,10 @@ section{
     background-image: radial-gradient(45deg, lightsalmon tomato);
 }
 .dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
     float: left;
+    height: 500px;
+
 }
