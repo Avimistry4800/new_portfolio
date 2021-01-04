@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0%;
 
 }
 h1{
@@ -24,4 +25,24 @@ h1{
 }
 .half-width p{
     margin-top: 10%;
+}
+.background{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: gainsboro;
+    font-weight: 700;
+    font-size: 120%;
+    background-image: radial-gradient(45deg, lightsalmon tomato);
+}
+.dream-area{
+    float: left;
 }
