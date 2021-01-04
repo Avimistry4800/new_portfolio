@@ -13,7 +13,7 @@ h2{
 p{
     color: dimgray;
 }
-.name_highlight{
+.darkorange_highlight{
     color: darkorange;
 }
 .half-width{
@@ -55,6 +55,9 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     float: left;
-    height: 500px;
 
+}
+.Experience{
+    color: darkorange;
+   
 }
