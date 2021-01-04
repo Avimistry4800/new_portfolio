@@ -8,3 +8,20 @@ h1{
 .name_highlight{
     color: darkorange;
 }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 5%;
+    margin-top: 4%;
+
+
+}
+.half-width img{
+    width: 100%;
+    
+}
+.half-width p{
+    margin-top: 10%;
+}
